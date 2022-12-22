@@ -1,0 +1,10 @@
+Commands for NetBeans:
+
+To write functionalities
+1. Write sout after tab. To write System.out.println(" ")
+2. Write soutv after tab. To write System.out.println( "myVariable =" + myVariable)
+
+
+To spread the a list
+1. Press ctrl + space to see the variables in our program
+2. 
