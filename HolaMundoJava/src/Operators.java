@@ -17,5 +17,14 @@ class Operators {
         
         // Remainder
         System.out.println(num1 % num2);
+
+        // Sum 5 to the num1
+        num1 += 5;
+        System.out.println(num1);
+
+        // Substraction 5 to the num1
+        num1 -= 5;
+        System.out.println(num1);
+
     }
 }
