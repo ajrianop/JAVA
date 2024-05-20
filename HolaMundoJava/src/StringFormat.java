@@ -1,5 +1,13 @@
 public class StringFormat {
     public static void main(String[] args) {
+
+        // If we want to use the String format we need to specify to call each variables as follows:
+        // String --> %s
+        // Integer --> %d
+        // Double or float  --> %f
+        // Char --> %c
+        // Booleans --> %b
+
         String day = "Monday";
         int number_day = 16;
         String month = "June";
