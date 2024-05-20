@@ -9,5 +9,13 @@ public class StringFormat {
 
         System.out.println(formattingString);
 
+        
+        int a = 2;
+        int b = 3;
+        boolean c;
+        c = (a == b);
+        String stringWithRelation = String.format("Is %d equal to %d => %b", a,b,c);
+        System.out.println(stringWithRelation);
+
     }
 }
